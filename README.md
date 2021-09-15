@@ -1,4 +1,4 @@
 # jdcov_LASSO
-Repository for the R implementation of JdCov screening and Group LASSO on real-world TCGA RNAseq, Melanoma, and CNV data.
+The implementation of the following scripts assumes that the user has already downloaded, cleaned, and properly oriented the appropriate RNAseq, Methylation, and CNV datasets.  More detailed information about this is provided in the code.
 
 JdCov files are obtained from the JdCov Github page located at https://github.com/shubhadeep4/jdcov
